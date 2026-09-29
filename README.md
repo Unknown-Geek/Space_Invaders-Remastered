@@ -1,5 +1,12 @@
 # Space Invaders Remastered
 
+[![Stars](https://img.shields.io/github/stars/Unknown-Geek/Space_Invaders-Remastered?style=flat)](https://github.com/Unknown-Geek/Space_Invaders-Remastered/stargazers)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/Vision-OpenCV-5C3EE8.svg?logo=opencv&logoColor=white)](https://opencv.org/)
+[![MediaPipe](https://img.shields.io/badge/Gesture_Control-MediaPipe-007ACC.svg)](https://mediapipe.dev/)
+[![Pygame](https://img.shields.io/badge/Arcade-Pygame-yellow.svg)](https://www.pygame.org/)
+
+
 Welcome to Space Invaders Remastered! This is a modern take on the classic arcade game, featuring AI hand tracking for controls and a high score system using SQLite.
 
 ## Table of Contents
